@@ -16,6 +16,22 @@ Technologies Used:
             -CSV for data storage
 
 
+📊 Performed in-depth analysis of Diwali sales data to uncover customer and product trends.
+
+🛍️ Identified high-value customers and top-selling products/categories.
+
+👨‍👩‍👧‍👦 Analyzed spending behavior by gender, age group, and marital status.
+
+🌍 Revealed regional sales performance to understand location-based trends.
+
+📈 Created an interactive Streamlit dashboard for real-time data exploration.
+
+💡 Enabled data-driven business decisions to improve festive sales strategies.
+
+🧩 Demonstrated the power of Python, Pandas, and Streamlit in solving real-world business problems.
+
+
+
 Through exploratory data analysis, we identified:
 
             -Top-performing products and most valuable customers
@@ -23,4 +39,5 @@ Through exploratory data analysis, we identified:
             -Spending behavior patterns by gender, age group, and location
 
             -Key contributing states to overall sales
+            
             
