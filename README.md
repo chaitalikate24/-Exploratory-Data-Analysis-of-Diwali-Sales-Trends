@@ -15,4 +15,12 @@ Technologies Used:
 
             -CSV for data storage
 
+
+Through exploratory data analysis, we identified:
+
+            -Top-performing products and most valuable customers
+
+            -Spending behavior patterns by gender, age group, and location
+
+            -Key contributing states to overall sales
             
